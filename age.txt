@@ -1,0 +1,9 @@
+⌨️ age
+❓ age > 10
+▶️
+💬 "You are older than 10"
+⏹️
+❗
+▶️
+💬 "You are 10 or younger"
+⏹️
